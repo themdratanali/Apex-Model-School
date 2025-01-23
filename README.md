@@ -40,19 +40,11 @@
     </ul>
     <li>Update database connection details in <code>config/connection.php</code>:</li>
     <pre><code>$host = 'localhost';</code></pre></ol>
-
-    <h2>Usage Instructions</h2>
 <ul>
     <li><strong>Navigate Pages:</strong> Browse school details and resources.</li>
     <li><strong>Admission Process:</strong> Submit applications online.</li>
     <li><strong>Admin Login:</strong> Manage school content (Default credentials: admin/Password).</li>
 </ul>
-
-<h2>Contribution</h2>
-<p>Feel free to contribute to the project by submitting pull requests on GitHub.</p>
-
-<h2>License</h2>
-<p>This project is licensed under the MIT License.</p>
 
 <h2>Contact</h2>
 <p>For any inquiries, please contact <a href="mailto:themdratanali@gmail.com">themdratanali@gmail.com</a>.</p>
